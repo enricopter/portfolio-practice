@@ -1,0 +1,13 @@
+.know-skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.knowme, .skills{
+    width: 40%;
+
+}
+.knowme{
+    padding-right: 50px;
+}
